@@ -1,0 +1,3 @@
+# How do Pick and Omit utility types prevent code duplication while creating specialized "slices" of a master interface? Discuss how this keeps your code DRY (Don't Repeat Yourself).
+
+Pick এবং Omit utility types একটি master interface থেকে প্রয়োজনীয় অংশ নিয়ে নতুন type তৈরি করে। এতে একই code বারবার লিখতে হয় না এবং code DRY (Don't Repeat Yourself) থাকে। Pick নির্দিষ্ট property নেয়, আর Omit নির্দিষ্ট property বাদ দেয়।

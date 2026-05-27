@@ -1,0 +1,3 @@
+# Why is any labeled a "type safety hole," and why is unknown the safer choice for handling unpredictable data? Explain the concept of type narrowing.
+
+any TypeScript এর type checking বন্ধ করে দেয়, তাই একে “type safety hole” বলা হয়। এটি runtime error তৈরি করতে পারে। অন্যদিকে unknown safer, কারণ value ব্যবহার করার আগে type check করতে হয়। এই type check process-ই Type Narrowing, যেখানে TypeScript condition এর মাধ্যমে variable এর নির্দিষ্ট type শনাক্ত করে।

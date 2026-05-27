@@ -1,0 +1,3 @@
+# How do the four pillars of OOP—Inheritance, Polymorphism, Abstraction, and Encapsulation—help manage logic and reduce complexity in large-scale TypeScript projects?
+
+OOP এর চারটি pillar হলো Inheritance, Polymorphism, Abstraction, এবং Encapsulation। এগুলো code reuse, logic organization, data protection এবং complexity management এ সাহায্য করে। বড় TypeScript project এ OOP code কে scalable, maintainable এবং clean রাখে।
